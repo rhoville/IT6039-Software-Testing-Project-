@@ -7,7 +7,7 @@ import BowlingGame
 
 class TestBowlingGame(unittest.TestCase):
     """
-    A test suite for the BowlingGame class.
+    A test suite for the BowlinGame class.
     """
 
     def setUp(self):
